@@ -1,0 +1,12 @@
+{
+  "name": "node-overwatch-disciplinetracker",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShaunLWM/node-overwatch-disciplinetracker.git",
+  "author": "ShaunLWM",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
